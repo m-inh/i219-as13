@@ -1,0 +1,4 @@
+target = BBProb2
+classpath+=.
+sourcepath+=.
+report.console.property_violation=error,trace,snapshot

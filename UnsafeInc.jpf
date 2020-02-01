@@ -1,0 +1,4 @@
+target = UnsafeInc
+classpath+=.
+sourcepath+=.
+report.console.property_violation=error,trace,snapshot
